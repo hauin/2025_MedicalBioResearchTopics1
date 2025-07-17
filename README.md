@@ -1,4 +1,4 @@
-# Medical BioResearch Topics 1
+# AI Convergence Medical/Bio Research Topics 1
 ## 1. Course Description
 
 - Introduction to brain imaging as medical data
@@ -15,7 +15,7 @@
 ## 3. Course Format
 
 - Lecture (brain imaging fundamentals and data processing methods): 70%
-- Discussion/presentation (hands-on implementation of brain imaging-based AI models): 30%
+- Presentation/Discussion (hands-on implementation of brain imaging-based AI models): 30%
 
 
 ## 4. Course Objectives
@@ -43,13 +43,13 @@
 
 ### Brain imaging
 
-- Introduction to Neuroimaging Analysis (Authors: Mark Jenkinson, Michael Chappell; Oxford University Press; 2018)
+- Introduction to Neuroimaging Analysis (Authors: Mark Jenkinson, Michael Chappell; Oxford University Press, 2018)
 - Introduction to Human Neuroimaging (Authors: Hans Op de Beeck, Chie Nakatani; Cambridge University Press, 2019)
 
 ### Machine learning for brain imaging
 
 - Machine Learning in Clinical Neuroimaging (Editors: Ahmed Abdulkadir, Deepti R. Bathula, Nicha C. Dvornek, Mohamad Habes, Seyed Mostafa Kia, Vinod Kumar, Thomas Wolfers, Springer, 2022)
-- Machine Learning and Deep Learning in Neuroimaging Data Analysis (Authors: Anitha S. Pillai, Bindu Menon; CRC Press; 2024)
+- Machine Learning and Deep Learning in Neuroimaging Data Analysis (Authors: Anitha S. Pillai, Bindu Menon; CRC Press, 2024)
 
 ## 9. Course Contents
 
